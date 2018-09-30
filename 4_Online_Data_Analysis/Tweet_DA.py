@@ -3,12 +3,12 @@ from tweepy import OAuthHandler
 import tweety_nltk as tnltk
 
 # Consumer API Keys
-consumer_key = "aooIhU174fTBCddpIvGeoNuIk"
-consumer_secret = "VqxjnAJDk1GBupsNePcC19H4wap9mOt4avP50QcPBQw2Gt0k1m"
+consumer_key = "your API KEY"
+consumer_secret = "your API SECRET KEY"
 
 # Consumer Access Keys
-access_key = "617869654-hz5AiU1kO9YBohzPvAflQgkIJHaZoPUJCKvv6CWW"
-access_secret = "tevOCPoyrgFtEMoFUJo7mWvcArwnQAYrMS8t6zng89s0v"
+access_key = "your CONSUMER KEY"
+access_secret = "your CONSUMER SECRET"
 
 # Authorize this Python Script
 auth = OAuthHandler(consumer_key, consumer_secret)
