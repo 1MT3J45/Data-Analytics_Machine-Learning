@@ -1,0 +1,15 @@
+https://rustyonrampage.github.io/text-mining/2017/11/23/stemming-and-lemmatization-with-python-and-nltk.html
+www.nltk.org/howto/sentiment.html
+https://www.kaggle.com/ngyptr/python-nltk-sentiment-analysis
+www.kaggle.com
+datasciencecentral.com
+superdatascience.com
+
+# DataSet Sources
+Sr,Link
+1,https://github.com/fivethirtyeight/data
+2,https://archive.ics.uci.edu/ml/datasets
+3,https://opendata.socrata.com/
+4,https://data.gov.in/
+5,https://registry.opendata.aws/
+6,https://opendata.socrata.com/
